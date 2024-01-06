@@ -1,6 +1,5 @@
 # Kurss HPC-pamati
 
-
 <!-- ## Par kursu -->
 
 
