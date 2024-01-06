@@ -15,8 +15,7 @@ Latviski tas nozīmē  - Augstas Veikspējas Skaitļošana
 
 ---
 
-## Kursa mērķi(s) 
-
+## Kursa mērķi
 
 Kursa mērķi ir palīdzēt saprast HPC: <br>
 - lomu modernajā zinātnē un inženierijā,  <br>
