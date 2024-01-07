@@ -24,7 +24,6 @@ Kursa mērķi ir palīdzēt saprast HPC: <br>
 
 ---
 
-
 ```attention-question {label: "Cik ilgi ir jāstudē?"}
  Prognozējamais laiks kursa veikšanai - 12 stundas
 ```
