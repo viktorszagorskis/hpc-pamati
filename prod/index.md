@@ -26,5 +26,5 @@ Latviski tas nozīmē  - Augstas Veikspējas Skaitļošana
 ---
 
 ```attention-question {label: "Cik ilgi ir jāstudē?"}
- Prognozējamais laiks kursa veikšanai - 12 stundas
+🍃🕒 Prognozējamais laiks kursa veikšanai - 12 stundas
 ```
