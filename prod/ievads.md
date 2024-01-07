@@ -1,4 +1,6 @@
 ## 1
+
+new text
 <!-- # Sākam kursu ... -->
 :include-image: pix/kurss-hpc-pamati-logo.png { scale: 0.7, align: "center"}
 
