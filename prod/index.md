@@ -20,7 +20,7 @@ Latviski tas nozīmē  - Augstas Veikspējas Skaitļošana
 - HPC loma modernajā zinātnē un inženierijā
 - HPC līdzība ar galda vai klēpja datoriem
 - HPC uzbūve un architektūra
-- Termini un žargoni HPC kontekstā
+- HPC kontekstā lietojamie termini un žargoni 
 - HPC un paralēlās skaitļošanas principi
 
 ---
