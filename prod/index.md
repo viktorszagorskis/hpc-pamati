@@ -2,7 +2,6 @@
 
 <!-- ## Par kursu -->
 
-
 :include-image: hpc-kursa-logo.png { scale: 0.8, align: "center"}
 
 ```attention-note {label: "Kas ir HPC?"}
