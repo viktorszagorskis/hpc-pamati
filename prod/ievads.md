@@ -28,7 +28,7 @@
 
 - **Augstas veiktspējas skaitļošana** jeb **HPC** (no angļu valodas *High Performance Computing*) ir iespēja apstrādāt datus un veikt sarežģītus aprēķinus lielā ātrumā.
 - HPC ļauj izmantot skaitļošanas jaudu, kas ir ievērojami lielāka nekā pieejama tipiskā klēpjdatorā vai galddatorā.
-- Lai izmantotu augstas veiktspējas skaitļošanu, ir nepieciešama
+- Lai izmantotu augstas veiktspējas skaitļošanu, ir nepieciešamas divas lietas:
 - gan **aparatūra**, t.i., specifisks jaudīgs dators, ko sauc arī par superdators,
 - gan **programmatūra**, t.i., rīki HPC lietojumprogrammu programmēšanai un superdatora lietošanai.
 
