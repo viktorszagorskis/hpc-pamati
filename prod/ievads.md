@@ -22,7 +22,6 @@
 
 <!-- :include-iframe: https://player.vimeo.com/video/893412677?h=bf6da07fd5 {aspectRatio: "1:1" } -->
 
-
 # Kas ir HPC?
 
 - **Augstas veiktspējas skaitļošana** jeb **HPC** (no angļu valodas *High Performance Computing*) ir iespēja apstrādāt datus un veikt sarežģītus aprēķinus lielā ātrumā.
