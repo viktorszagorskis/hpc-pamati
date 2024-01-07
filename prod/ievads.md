@@ -32,7 +32,7 @@
 - gan **aparatūra**, t.i., specifisks jaudīgs dators, ko sauc arī par superdators,
 - gan **programmatūra**, t.i., rīki HPC lietojumprogrammu programmēšanai un superdatora lietošanai.
 
-# Eksperimentālā zinātnes
+# Eksperimentālā zinātne
 
 **Agrīnā astronomija** ir eksperimentālās zinātnes piemērs. Senie astronomi vēroja debesis vispirms ar acīm un pēc tam ar teleskopiem un fiksēja Saules, Mēness, Saules sistēmas planētu un dažu zvaigžņu pozīcijas un kustības. Viņi secināja, ka novērojumi atbilst konkrētiem modeļiem. 
 
