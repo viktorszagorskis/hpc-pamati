@@ -52,7 +52,7 @@ Novērojumu dati ļauj zinātniekiem tos analizēt un mēģināt tos izskaidrot,
 Parasti, vispirms ir novērojumi, un tad tiek izstrādāta teorija, lai tos izskaidrotu. Bet ne vienmēr. Piemēram, pirms vairāk nekā 50 gadiem teorētiķi 
 Fransuā Englerts (*François Englert*) un Pīters Higss (*Peter Higgs*), lai izskaidrotu masas (matērijas, zvaigžņu, planētu) esamību, 
 piedāvāja ieviest jaunu fizikālu lauku, ko tagad sauc par Higsa lauku. 
-Pirmo eksperimentālo aptiprinājumu Higsa laukam ieguva tikai 2012. gadā. Savukārt 2013. gadā abi zinātnieki ieguva Nobela prēmiju par savu atklājumu.
+Pirmo eksperimentālo aptiprinājumu Higsa laukam ieguva tikai 2012. gadā. Savukārt 2013. gadā abi zinātnieki ieguva Nobela (_Alfred Nobel_) prēmiju par savu atklājumu.
 
 # Skaitļošanas zinātne
 
