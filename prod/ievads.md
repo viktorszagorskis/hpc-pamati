@@ -31,7 +31,9 @@
 
 # Eksperimentālā zinātned
 
-**Agrīnā astronomija** ir eksperimentālās zinātnes piemērs. Senie astronomi vēroja debesis vispirms ar acīm un pēc tam ar teleskopiem un fiksēja Saules, Mēness, Saules sistēmas planētu un dažu zvaigžņu pozīcijas un kustības. Viņi secināja, ka novērojumi atbilst konkrētiem modeļiem. Līdzīgi mikroskopus var izmantot, lai novērotu nelielu daļiņu nejaušu kustību šķidrumā (Brauna kustība) utt.
+**Agrīnā astronomija** ir eksperimentālās zinātnes piemērs. Senie astronomi vēroja debesis vispirms ar acīm un pēc tam ar teleskopiem un fiksēja Saules, Mēness, Saules sistēmas planētu un dažu zvaigžņu pozīcijas un kustības. Viņi secināja, ka novērojumi atbilst konkrētiem modeļiem. 
+
+Līdzīgi mikroskopus var izmantot, lai novērotu nelielu daļiņu nejaušu kustību šķidrumā (Brauna kustība) utt.
 
 Dažādiem eksperimentiem ir nepieciešami atšķirīgi mērīšanas aparāti, un eksperimentu veikšana var būt ļoti dārga vai pat neiespējama.
 
