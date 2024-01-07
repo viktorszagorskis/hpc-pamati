@@ -3,4 +3,4 @@
 Šeit atrodās "HPC-pamati" kursa materiāli: 
 
 DOCS - melnrakstiem
-PROD - tiirrakstiem
+PROD - tīrrakstiem
