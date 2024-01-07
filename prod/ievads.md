@@ -1,4 +1,4 @@
-## 3
+## 2
 
 new text
 <!-- # Sākam kursu ... -->
