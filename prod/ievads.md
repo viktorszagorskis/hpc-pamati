@@ -29,7 +29,7 @@
 
 **Augstas veiktspējas skaitļošana** jeb **HPC** (no angļu valodas *High Performance Computing*) ir iespēja apstrādāt datus un veikt sarežģītus aprēķinus lielā ātrumā. HPC ļauj izmantot skaitļošanas jaudu, kas ir ievērojami lielāka nekā pieejama tipiskā klēpjdatorā vai galddatorā. Lai izmantotu augstas veiktspējas skaitļošanu, ir nepieciešama gan **aparatūra**, t.i., specifisks jaudīgs dators, ko sauc arī par superdators, gan **programmatūra**, t.i., rīki HPC lietojumprogrammu programmēšanai un superdatora lietošanai.
 
-# Eksperimentālā zinātnes
+# Eksperimentālās zinātnes
 
 **Agrīnā astronomija** ir eksperimentālās zinātnes piemērs. Senie astronomi vēroja debesis vispirms ar acīm un pēc tam ar teleskopiem un fiksēja Saules, Mēness, Saules sistēmas planētu un dažu zvaigžņu pozīcijas un kustības. Viņi secināja, ka novērojumi atbilst konkrētiem modeļiem. 
 
