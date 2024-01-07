@@ -13,14 +13,14 @@ Latviski tas nozīmē  - Augstas Veikspējas Skaitļošana
 ```
 ---
 
-## Kursa mērķi
+## Kursa mērķis
 
-Kursa mērķi ir palīdzēt saprast HPC: <br>
-- lomu modernajā zinātnē un inženierijā,  <br>
-- līdzību ar galda vai klēpja datoriem,  <br>
-- uzbūvi un architektūru, <br> 
-- terminus un žargonu,  <br>
-- paralēlās skaitļošanas principus
+Kursa mērķis ir palīdzēt saprast HPC apskatot sekojošas tēmas:
+- HPC loma modernajā zinātnē un inženierijā,  <br>
+- HPC līdzība ar galda vai klēpja datoriem,  <br>
+- HPC uzbūve un architektūra, <br> 
+- Termini un žargoni datoru un HPC kontekstā,  <br>
+- Paralēlās skaitļošanas principi
 
 ---
 
