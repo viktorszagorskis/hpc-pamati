@@ -5,3 +5,5 @@
 DOCS - melnrakstiem
 
 PROD - tīrrakstiem
+
+PIX - attēli preprodam
