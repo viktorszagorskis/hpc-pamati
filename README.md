@@ -6,4 +6,6 @@ DOCS - melnrakstiem
 
 PROD - tīrrakstiem
 
+PRE-PROD - labošanai
+
 PIX - attēli preprodam
