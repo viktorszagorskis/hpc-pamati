@@ -46,7 +46,7 @@ Latviski HPC nozīmē  - Augstas Veikspējas Skaitļošana
 
 ```attention-question {label: "Vai ES iegūšu kādu DOKUMENTU? "}
 ```
-> TU iegūsi SERTIFIKĀTU par **HPC-pamati** kursa beigšanu,   
+> Tu iegūsi SERTIFIKĀTU par **HPC-pamati** kursa beigšanu,   
 ja noslēguma pārbaudījumā uzrādīsi **> 70%** pareizas atbildes.
 
 ```attention-question {label: "Kur MAN var noderēt SERTIFIKĀTS? "}
@@ -58,5 +58,5 @@ Tu sāc mainīt savu NĀKOTNI!
 ```attention-question {label: "Dzirdēts, ka esot ir trīs HPC kursi... "}
 ```
 >  Pēc SERTIFIKĀTA iegūšanas par **HPC-prakse** kursu,  
-TEV ir iespēja piedalīties augstākā līmeņa kursā - **HPC-meistars**.  
+Tev ir iespēja piedalīties augstākā līmeņa kursā - **HPC-meistars**.  
 Tu pats veido savu NĀKOTNI!
