@@ -1,4 +1,4 @@
-## 2.15 Superdatora darbības ātrums
+## Superdatora darbības ātrums
 
 Ir vairāki izplatīti rādītāji superdatoru veiktspējas mērīšanai un to savstarpējai salīdzināšanai. Klasisks rādītājs ir peldošā komata darbību skaits, ko dators var izpildīt vienā sekundē (FLOP/s).
 
