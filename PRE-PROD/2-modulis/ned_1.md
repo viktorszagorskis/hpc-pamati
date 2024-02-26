@@ -22,7 +22,7 @@ Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēj
 Noslēdzot šo nedēļu/moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
-[2.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
+[2. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
 tiklīdz tiksi galā ar iepriekšējā moduļa testu.
 
 Labam, ātram un paliekošam rezultātam - mēs iesakām vispirms:
