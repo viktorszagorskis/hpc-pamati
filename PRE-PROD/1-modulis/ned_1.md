@@ -7,7 +7,7 @@ title: Ievads - 1.ned
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izceidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
+- izveidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
@@ -21,7 +21,7 @@ Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēj
 Noslēdzot šo nedēļu/moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
-[1.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam)
+[1. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam)
 
 Bet! Mēs iesakām vispirms:
 -  **izlasīt un apskatīt visus publicētos materiālus** un 
