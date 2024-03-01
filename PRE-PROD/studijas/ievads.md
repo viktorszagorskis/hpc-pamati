@@ -21,7 +21,7 @@ Sveicam tālmācības kursā par SUPERDATORIEM!
 
 > Kursā ir teksti, attēli, video un citi materiāli, kurus vajadzētu apgūt norādītajā secībā. Pēc katra mācību materiāla ir pašpārbaudes tests, lai varētu pārliecināties vai atceraties un saprotat lasīto un/vai redzēto. Ja testu neizdodas izpildīt sekmīgi, tad vēlreiz jāizskata mācību materiāls un pašpārbaudes tests ir jāatkārto. 
 
-> Katras nedēļas beigās ir īstais pārbaudes tests, kurā jāsasniedz vismaz 70% pareizu atbilžu un šo testu izpildei ir jāreģistrējas. Lai reģistrētos nedēļa beigu testam, Jums ir jāklikšķina lapas pašā augšā labajā stūrī uz “Reģistrēties”. Tur būs jāievada visa prasītā informācija un tad Jūs būsiet reģistrēts studējošais. Ja pirmajā reizē testa rezultāts nav sekmīgs, tad tas nozīmē, ka vajadzētu vēlreiz caurskatīt nedēļas materiālus, veikt pašpārbaudes testus un mēģināt vēlreiz. 
+> Katras nedēļas beigās ir īstais pārbaudes tests, kurā jāsasniedz vismaz 70% pareizu atbilžu un šo testu izpildei ir jāreģistrējas. Lai reģistrētos nedēļa beigu testam, Jums ir jāklikšķina lapas pašā augšā labajā stūrī uz “Sākt darbu”. Tur būs jāievada visa prasītā informācija un tad Jūs būsiet reģistrēts studējošais. Ja pirmajā reizē testa rezultāts nav sekmīgs, tad tas nozīmē, ka vajadzētu vēlreiz caurskatīt nedēļas materiālus, veikt pašpārbaudes testus un mēģināt vēlreiz. 
 
 > Pēc četru šādu testu sekmīgas izpildes 12 stundu mācību kurss būs sekmīgi pabeigts un reģistrētie saņems arī sertifikātu.
 
