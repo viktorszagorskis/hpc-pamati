@@ -17,7 +17,7 @@ Sveicam tālmācības kursā par SUPERDATORIEM!
 
 > Mācīšanās ilgums ir plānots 12 stundas četrās nedēļās. Tas nozīmē, ka katru nedēļu ir jāatrod trīs stundas brīva laika mācībām. Nav jau jāmācās tieši trīs stundas katru nedēļu un kādam mācīšanās veiksies ātrāk, bet citam mazliet lēnāk. Tālmācībā nav klātienes nodarbību un jāmācās ir patstāvīgi, bet tomēr var saņemt palīdzību attālināti no konsultanta vai citiem, kas arī mācās šo pašu kursu.
 
-> Kad sākat mācīties, tad ieteicam visus materiālus apgūt tādā secībā kā tie ir sakārtoti. Pašlaik Jūs esat sadaļā Ievads. Kad šo daļu esat izlasījuši, tad lai nonāktu nākamajā sadaļā Jums ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads - 1.ned”.  Tad Jūs nokļūsiet nākamajā sadaļā “Ievads - 1.ned”.  Ja gribat nokļūt atpakaļ, tad lapas apakšā kreisajā pusē varat uzklikšķināt uz “Kā studēt?: Ievads” un tad nokļūsiet iepriekšējā sadaļā. Pamēģiniet paceļot turp un atpakaļ.
+> Kad sākat mācīties, tad ieteicam visus materiālus apgūt tādā secībā kā tie ir sakārtoti. Pašlaik Jūs esat sadaļā Ievads. Kad šo daļu esat izlasījuši, tad lai nonāktu nākamajā sadaļā Jums ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads - 1.ned >”.  Tad Jūs nokļūsiet nākamajā sadaļā “< Ievads - 1.ned”.  Ja gribat nokļūt atpakaļ, tad lapas apakšā kreisajā pusē varat uzklikšķināt uz “Kā studēt?: Ievads” un tad nokļūsiet iepriekšējā sadaļā. Pamēģiniet paceļot turp un atpakaļ.
 
 > Kursā ir teksti, attēli, video un citi materiāli, kurus vajadzētu apgūt norādītajā secībā. Pēc katra mācību materiāla ir pašpārbaudes tests, lai varētu pārliecināties vai atceraties un saprotat lasīto un/vai redzēto. Ja testu neizdodas izpildīt sekmīgi, tad vēlreiz jāizskata mācību materiāls un pašpārbaudes tests ir jāatkārto. 
 
