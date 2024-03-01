@@ -11,7 +11,7 @@ Sveicam tālmācības kursā par SUPERDATORIEM!
 
 # Kā organizētas Studijas? 
 
-> Šis ir ievadkurss par superskaitļošanas jeb HPC pamatiem un paewszēts cilvēkiem bez priekšzināšanām informācijas tehnoloģiju (IT) jomā. Pēc kursa sekmīgas pabeigšanas nebūs iespējams sākt strādāt ar superdatoru, bet iegūtās zināšanas ļaus labāk saprast, kurās jomās superdatori varētu būt noderīgi un kā tie darbojas. Viss šajā jomā attīstās un mūsdienu mobilais telefons pirms 25 gadiem būtu jaudīgāks par tā laika superdatoru!
+> Šis ir ievadkurss par superskaitļošanas jeb HPC pamatiem un paredzēts cilvēkiem bez priekšzināšanām informācijas tehnoloģiju (IT) jomā. Pēc kursa sekmīgas pabeigšanas nebūs iespējams sākt strādāt ar superdatoru, bet iegūtās zināšanas ļaus labāk saprast, kurās jomās superdatori varētu būt noderīgi un kā tie darbojas. Viss šajā jomā attīstās un mūsdienu mobilais telefons pirms 25 gadiem būtu jaudīgāks par tā laika superdatoru!
 
 > Kursā varēs apgūst HPC jomā lietoto terminoloģiju un arī žargonu. Uzzināsiet arī par datoru attīstības vēsturi, uzbūves principiem un kā darbojas paralēlā skaitļošana.  Būs arī aprakstīti superdatoru pielietojumi, no kuriem varēsiet rast arī jaunas inovatīvas idejas. 
 
