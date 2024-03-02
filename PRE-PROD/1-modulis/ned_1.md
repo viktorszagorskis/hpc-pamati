@@ -1,6 +1,6 @@
 
 ---
-title: Ievads - 1.ned
+title: Ievads
 ---
 
 Šī MODUĻA **UZDEVUMS TEV** ir:
