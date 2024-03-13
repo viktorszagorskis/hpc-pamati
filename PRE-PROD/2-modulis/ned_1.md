@@ -1,6 +1,6 @@
 
 ---
-title: Ievads - 2.ned
+title: Ievads
 ---
 
 
@@ -18,6 +18,15 @@ title: Ievads - 2.ned
 [STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/2-modulis/1_1)
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
+
+Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
+Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērzētavā.
+Tur Tu varēsi apskatīt citu gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.
+Sarunu vietnē ir jāreģistrējas, ja to jau neesi izdarijis.  
+Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
+
+[SARUNU VIETNE - TĒRZĒTAVA](https://2-ned-sarunas.netlify.app/)
+
 
 Noslēdzot šo nedēļu/moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
