@@ -20,8 +20,8 @@ title: Ievads
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
 
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
-Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērzētavā.
-Tur Tu varēsi apskatīt citu gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.
+Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērzētavā.  
+Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.
 Sarunu vietnē ir jāreģistrējas, ja to jau neesi izdarijis.  
 Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
 
