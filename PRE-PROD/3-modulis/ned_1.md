@@ -1,5 +1,5 @@
 ---
-title: Ievads - 3.ned
+title: Ievads
 ---
 
 <!-- ## Trešās nedēļas tēmas, mērķi un uzdevumi   -->
@@ -43,6 +43,14 @@ TREŠĀ MODUĻA **UZDEVUMS TEV** ir:
 [STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/3-modulis/1_1)
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
+
+Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
+Mēs iesakām izmantot iespēju ieskatīties 3. nedēļas sarunu vietnē - tērzētavā.  
+Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
+Sarunu vietnē ir jāreģistrējas.  
+Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
+
+[SARUNU VIETNE - TĒRZĒTAVA](https://3-ned-sarunas.netlify.app/)
 
 Noslēdzot šo nedēļu/moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
