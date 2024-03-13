@@ -18,6 +18,14 @@ title: Ievads
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
 
+Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
+Mēs iesakām izmantot iespēju ieskatīties 1. nedēļas sarunu vietnē - tērzētavā.  
+Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
+Sarunu vietnē ir jāreģistrējas.  
+Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.
+
+[SARUNU VIETNE - TĒRZĒTAVA](https://1-ned-sarunas.netlify.app/)
+
 Noslēdzot šo nedēļu/moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
