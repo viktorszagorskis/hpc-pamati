@@ -3,7 +3,7 @@ title: Ievads
 ---
 
 
-CETURTĀ MODUĻA **UZDEVUMS TEV** ir:
+CETURTĀ mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
@@ -12,7 +12,7 @@ CETURTĀ MODUĻA **UZDEVUMS TEV** ir:
 
 ---
 
-Šī moduļa, studijas aizņem vidēji **4** stundas.
+Šī mācību moduļa, studijas aizņem vidēji **4** stundas.
 
 [4. MODUĻA STUDIJAS SĀKAS ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 
@@ -26,7 +26,7 @@ Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja v
 
 [SARUNU VIETNE - TĒRZĒTAVA](https://4-ned-sarunas.netlify.app/)
 
-Noslēdzot šo nedēļu/moduli,  
+Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
 [4.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
@@ -37,6 +37,6 @@ Mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie NEDĒĻAS NOSLĒGUMA TESTA
 
-[STUDIJAS TURPINAM un NOSLEDZAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
+[STUDIJAS TURPINĀM un NOSLĒDZAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 
 Tev izdosies!
