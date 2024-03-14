@@ -3,15 +3,6 @@
 title: Ievads
 ---
 
-Šī mācību MODUĻA **UZDEVUMS TEV** ir:
-- izlasīt piedāvātos TEKSTUS,
-- apskatīt ATTĒLUS un VIDEO materiālus,
-- trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
-- apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
-
----
-
 Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
 
 - Kas ir HPC?
@@ -34,6 +25,14 @@ title: Ievads
     1.10 Žargons  
 
 - Nedēļas beigu tests
+
+---
+Šī mācību MODUĻA **UZDEVUMS TEV** ir:
+- izlasīt piedāvātos TEKSTUS,
+- apskatīt ATTĒLUS un VIDEO materiālus,
+- trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
+- izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
+- apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
 
