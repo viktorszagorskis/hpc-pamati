@@ -12,7 +12,7 @@ title: Ievads
     3.1 Piemērs  
     3.2 Paralēlo algoritmu tipi  
     3.3 Paralēlās skaitļošanas veidi  
-    3.3 Pašpārbaudes tests  
+    3.4 Pašpārbaudes tests  
 
 - Paralēlās skaitļošanas mērogi
 
@@ -23,7 +23,7 @@ title: Ievads
 
 - Paralelizācija ar CPU un GPU
 
-    3.9. Instrukciju līmeņa paralelizācija  
+    3.9 Instrukciju līmeņa paralelizācija  
     3.10 GPU jeb grafiskais procesors  
     3.11 Pašpārbaudes tests  
 
