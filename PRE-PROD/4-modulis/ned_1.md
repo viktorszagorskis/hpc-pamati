@@ -14,7 +14,7 @@ CETURTĀ mācību MODUĻA **UZDEVUMS TEV** ir:
 
 Šī mācību moduļa, studijas aizņem vidēji **4** stundas.
 
-[4. MODUĻA STUDIJAS SĀKAS ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
+[4. MĀCĪBU MODUĻA STUDIJAS SĀKAS ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
 
