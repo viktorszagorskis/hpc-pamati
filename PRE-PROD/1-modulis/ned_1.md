@@ -10,7 +10,9 @@ title: Ievads
 - izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
-  Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+---
+
+Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
 
 - Kas ir HPC?
    
