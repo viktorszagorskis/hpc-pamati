@@ -11,7 +11,7 @@ title: Ievads
     1.2 Kāda ir HPC formula?  
     1.3 Ko par HPC dzird runājam?  
     1.4 Latvijas un Eiropas HPC saime  
-    1.5 Eiropas superdatori
+    1.5 Eiropas superdatori  
     1.6 PRACE projekts
   
 - HPC pielietojumi
