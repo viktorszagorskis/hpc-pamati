@@ -9,7 +9,7 @@ title: Ievads
    
     2.1 Datoru vēsture  
     2.2 Rīgas Tehniskās universitātes HPC vēsture  
-    2.3 Pasaules Jauno Laiku HPC Vēsture
+    2.3 Pasaules jauno laiku HPC vēsture
   
 - Datora darbības principi
 
