@@ -29,11 +29,11 @@ title: Ievads
 
 - Nedēļas beigu tests
 
-TREŠĀ MODUĻA **UZDEVUMS TEV** ir:
+Trešā mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izceidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
+- izceidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
@@ -52,7 +52,7 @@ Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja v
 
 [SARUNU VIETNE - TĒRZĒTAVA](https://3-ned-sarunas.netlify.app/)
 
-Noslēdzot šo nedēļu/moduli,  
+Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
 [3.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
@@ -63,6 +63,6 @@ Kā parasti - mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie NEDĒĻAS NOSLĒGUMA TESTA
 
-[STUDIJAS TURPINAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/3-modulis/1_1)
+[STUDIJAS TURPINĀM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/3-modulis/1_1)
 
 Tev izdosies!
