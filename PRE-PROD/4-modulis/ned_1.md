@@ -16,7 +16,7 @@ CETURTĀ mācību MODUĻA **UZDEVUMS TEV** ir:
 
 [4. MĀCĪBU MODUĻA STUDIJAS SĀKAS ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 
-Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas viss ilgs vidēji/aptuveni vienu nedēļu.
+Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 4. nedēļas sarunu vietnē - tērzētavā.  
