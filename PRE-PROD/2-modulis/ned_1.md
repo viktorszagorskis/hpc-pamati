@@ -3,7 +3,27 @@
 title: Ievads
 ---
 
+Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
 
+- Datoru attīstības vēsture
+   
+    2.1 Datoru vēsture  
+    2.2 Rīgas Tehniskās universitātes HPC vēsture  
+    2.3 Pasaules Jauno Laiku HPC Vēsture
+  
+- Datora darbības principi
+
+    2.4 Apzīmējumi un modeļi  
+    2.5 Superdatora darbības ātrums 
+
+- Kas ir superdators?
+
+    2.6 Superdators tehnoloģiju attīstības procesā  
+    2.7 Top-500 superdatori  
+
+- Nedēļas beigu tests
+  
+---
 Šī mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
