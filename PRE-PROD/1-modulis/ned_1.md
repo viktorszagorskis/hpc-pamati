@@ -3,11 +3,11 @@
 title: Ievads
 ---
 
-Šī MODUĻA **UZDEVUMS TEV** ir:
+Šī mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izveidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
+- izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
@@ -26,7 +26,7 @@ Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja 
 
 [SARUNU VIETNE - TĒRZĒTAVA](https://1-ned-sarunas.netlify.app/)
 
-Noslēdzot šo nedēļu/moduli,  
+Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
 [1. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam)
