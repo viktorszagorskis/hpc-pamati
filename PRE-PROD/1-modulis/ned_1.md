@@ -10,6 +10,29 @@ title: Ievads
 - izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
+  Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+
+- Kas ir HPC?
+   
+    1.1 HPC definīcija  
+    1.2 Kāda ir HPC formula?  
+    1.3 Ko par HPC dzird runājam?  
+    1.4 Latvijas un Eiropas HPC saime  
+    1.5 Eiropas superdatori
+    1.6 PRACE projekts
+  
+- HPC pielietojumi
+
+    1.7 Kā HPC ietekmē pasauli  
+    1.8 HPC piemēri modelēšanā 
+
+- HPC termini un žargons
+
+    1.9. Termini un žargons zinātnē un tehnikā  
+    1.10 Žargons  
+
+- Nedēļas beigu tests
+
 ---
 
 Šī moduļa, studijas aizņem vidēji **4** stundas.
