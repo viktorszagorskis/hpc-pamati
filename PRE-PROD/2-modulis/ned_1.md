@@ -4,7 +4,7 @@ title: Ievads
 ---
 
 
-Šī MODUĻA **UZDEVUMS TEV** ir:
+Šī mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
@@ -28,8 +28,8 @@ Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja 
 [SARUNU VIETNE - TĒRZĒTAVA](https://2-ned-sarunas.netlify.app/)
 
 
-Noslēdzot šo nedēļu/moduli,  
-Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
+Noslēdzot šo nedēļu/mācību moduli,  
+Tu vari apliecināt savas zināšanas par HPC, piedaloties **nedēļas noslēguma testā**.  
 
 [2. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
 tiklīdz tiksi galā ar iepriekšējā moduļa testu.
@@ -39,6 +39,6 @@ Labam, ātram un paliekošam rezultātam - mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie NEDĒĻAS NOSLĒGUMA TESTA
 
-[STUDIJAS TURPINAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/2-modulis/1_1)
+[STUDIJAS TURPINĀM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/2-modulis/1_1)
 
 Tev izdosies!
