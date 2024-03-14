@@ -23,6 +23,6 @@ Sveicam tālmācības kursā par SUPERDATORIEM!
 
 > Katras nedēļas beigās ir īstais pārbaudes tests, kurā jāsasniedz vismaz 70% pareizu atbilžu. Šo testu izpildei ir jāreģistrējas. Lai reģistrētos nedēļas beigu testam, ir jāklikšķina lapas pašā augšā labajā stūrī uz “Sākt darbu”. Tur būs jāievada visa prasītā informācija un tad būsi reģistrēts studējošais. Ja pirmajā reizē testa rezultāts nav sekmīgs, tad tas nozīmē, ka vajadzētu vēlreiz caurskatīt nedēļas materiālus, veikt pašpārbaudes testus un mēģināt vēlreiz. 
 
-> Pēc četru šādu testu sekmīgas izpildes 12 stundu mācību kurss būs sekmīgi pabeigts un ja būsi reģistrējies/reģistrējusies, saņemsi  arī sertifikātu.
+> Pēc četru šādu testu sekmīgas izpildes 12 stundu mācību kurss būs sekmīgi pabeigts un, ja būsi reģistrējies/reģistrējusies, saņemsi  arī sertifikātu.
 
 > Lai Tev veicas!
