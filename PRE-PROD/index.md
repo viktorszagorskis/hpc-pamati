@@ -53,7 +53,7 @@ ja noslēguma pārbaudījumā uzrādīsi vismaz **70%** pareizas atbildes.
 ```
 
 >  Tu vari maksāt ar savu SERTIFIKĀTU par iespēju piedalīties nākamā līmeņa kursā - **HPC-prakse**.  
-Tu sāc mainīt savu NĀKOTNI!
+Tu vari sākt mainīt savu NĀKOTNI!
 
 ```attention-question {label: "Dzirdēts, ka esot trīs HPC kursi... "}
 ```
