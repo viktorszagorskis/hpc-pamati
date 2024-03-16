@@ -3,7 +3,10 @@
 title: Ievads
 ---
 
-Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests.
+
+```attention-note {label: "Pirmās nedēļas tēmas"}
+```
 
 - Kas ir HPC?
    
