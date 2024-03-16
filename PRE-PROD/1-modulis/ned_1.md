@@ -3,7 +3,7 @@
 title: Ievads
 ---
 
-Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
 
 - Kas ir HPC?
    
@@ -45,10 +45,11 @@ Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/apt
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 1. nedēļas sarunu vietnē - tērzētavā.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
-Sarunu vietnē ir jāreģistrējas.  
-Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.
+Sarunu vietnē ir jāreģistrējas.
+Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.  
+Saiti uz tērzētavu atradīsi nedēļas beigās. 
 
-[SARUNU VIETNE - TĒRZĒTAVA](https://1-ned-sarunas.netlify.app/)
+
 
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
