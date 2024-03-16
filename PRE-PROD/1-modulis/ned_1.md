@@ -36,25 +36,19 @@ Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē
 
 ---
 
-Šī moduļa, studijas aizņem vidēji **4** stundas.
-
-[STUDIJAS VARAM SĀKT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/1-modulis/1_1)
-
+> Šī moduļa, studijas aizņem vidēji **4** stundas.  
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
-Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
+> Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 1. nedēļas sarunu vietnē - tērzētavā.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
-Sarunu vietnē ir jāreģistrējas.
+Sarunu vietnē ir jāreģistrējas.  
 Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.  
 Saiti uz tērzētavu atradīsi nedēļas beigās. 
 
 
-
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
-
-[1. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam)
 
 Bet! Mēs iesakām vispirms:
 -  **izlasīt un apskatīt visus publicētos materiālus** un 
