@@ -3,7 +3,7 @@
 title: Ievads
 ---
 
-Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
 
 - Datoru attīstības vēsture
    
