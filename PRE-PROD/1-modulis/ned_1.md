@@ -41,7 +41,7 @@ Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē
 > Šī moduļa, studijas aizņem vidēji **4** stundas.  
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
-```attention-note {label: "Tu neesi viens! "}
+```attention-note {label: "Tu neesi viens "}
 ```
 
 > Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
@@ -51,6 +51,8 @@ Sarunu vietnē ir jāreģistrējas.
 Ja esi piedalījies nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.  
 Saiti uz tērzētavu atradīsi nedēļas beigās. 
 
+```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas"}
+```
 
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
