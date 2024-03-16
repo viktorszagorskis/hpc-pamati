@@ -29,7 +29,13 @@ Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē
 
 - Nedēļas beigu tests
 
+
+
 ---
+
+```attention-note {label: "Tavs uzdevums"}
+```
+
 Šī mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
