@@ -5,8 +5,10 @@ title: Ievads
 <!-- ## Trešās nedēļas tēmas, mērķi un uzdevumi   -->
 
 
-Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+Šajā nedēļā saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests.
 
+```attention-note {label: "Trešās nedēļas tēmas"}
+```
 - Ievads paralēlajā skaitļošanā
    
     3.1 Piemērs  
@@ -29,6 +31,8 @@ title: Ievads
 
 - Nedēļas beigu tests
 
+```attention-note {label: "Tavs uzdevums"}
+```
 Trešā mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
@@ -38,25 +42,34 @@ Trešā mācību MODUĻA **UZDEVUMS TEV** ir:
 
 ---
 
-Šī moduļa, studijas aizņem vidēji **4** stundas.
+```attention-note {label: "Studijas prasa Tavu laiku"}
+```
+Šī moduļa studijas aizņem vidēji **4** stundas.
 
-[STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/3-modulis/1_1)
+<!--
+[STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/3-modulis/1_1) -->
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
+```attention-note {label: "Tu neesi viens"}
+```
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 3. nedēļas sarunu vietnē - tērzētavā.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
 Sarunu vietnē ir jāreģistrējas.  
 Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
 
-[SARUNU VIETNE - TĒRZĒTAVA](https://3-ned-sarunas.netlify.app/)
+<!--
+[SARUNU VIETNE - TĒRZĒTAVA](https://3-ned-sarunas.netlify.app/) -->
 
+```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas"}
+```
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **nedēļas noslēguma testā**.  
 
-[3.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
-tiklīdz tiksi galā ar iepriekšējā moduļa testu.
+<!--
+[3.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) -->
+Trešās nedēļas tests būs pieejams tiklīdz tiksi galā ar iepriekšējā moduļa testu.
 
 Kā parasti - mēs iesakām vispirms:
 -  **izlasīt un apskatīt visus publicētos materiālus** un 
