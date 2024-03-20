@@ -66,7 +66,7 @@ Tu vari apliecināt savas zināšanas par HPC, piedaloties **nedēļas noslēgum
 <!--
 [2. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) -->
 Otrās nedēļas noslēguma tests būs pieejams 
-tiklīdz tiksi galā ar iepriekšējā moduļa testu.
+tiklīdz tiksi galā ar iepriekšējā mācību moduļa testu.
 
 Labam, ātram un paliekošam rezultātam - mēs iesakām vispirms:
 -  **izlasīt un apskatīt visus publicētos materiālus** un 
