@@ -40,7 +40,9 @@ Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē�
 ```
 Šī moduļa, studijas aizņem vidēji **4** stundas.
 
+<!--
 [STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/2-modulis/1_1)
+-->
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
@@ -61,7 +63,9 @@ Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja 
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC, piedaloties **nedēļas noslēguma testā**.  
 
-[2. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) būs pieejams - 
+<!--
+[2. NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) -->
+Otrās nedēļas noslēguma tests būs pieejams 
 tiklīdz tiksi galā ar iepriekšējā moduļa testu.
 
 Labam, ātram un paliekošam rezultātam - mēs iesakām vispirms:
