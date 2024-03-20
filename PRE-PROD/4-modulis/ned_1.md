@@ -5,8 +5,8 @@ title: Ievads
 ```attention-note {label: "Ceturtās nedēļas tēmas"}
 ```
 - HPC veiksmes stāsti  
-4.1 Eiropas stāsti  
-4.2 Kas notiek pasaulē
+  - Eiropas stāsti  
+  - Kas notiek pasaulē
 
 - Diskusija par Eiropas stāstiem
 
@@ -44,7 +44,7 @@ Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja v
 <!--
 [SARUNU VIETNE - TĒRZĒTAVA](https://4-ned-sarunas.netlify.app/) -->
 
-```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas?"}
+```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas"}
 ```
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC piedaloties **kursa noslēguma testā**.  
