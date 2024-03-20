@@ -47,7 +47,7 @@ Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē
 
 ```attention-note {label: "Studijas prasa Tavu laiku"}
 ```
-> Šī moduļa, studijas aizņem vidēji **4** stundas.  
+> Šī moduļa studijas aizņem vidēji **4** stundas.  
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
 ```attention-note {label: "Tu neesi viens "}
