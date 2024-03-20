@@ -2,6 +2,19 @@
 title: Ievads
 ---
 
+```attention-note {label: "Ceturtās nedēļas tēmas"}
+```
+- HPC veiksmes stāsti
+4.1 Eiropas stāsti
+4.2 Kas notiek pasaulē
+
+- Diskusija par Eiropas stāstiem
+
+- Kursa noslēguma diskusija
+
+- Kursa noslēguma tests
+---
+
 ```attention-note {label: "Tavs uzdevums"}
 ```
 Ceturtā mācību moduļa **UZDEVUMS TEV** ir:
