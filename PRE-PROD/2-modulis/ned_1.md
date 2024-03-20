@@ -3,8 +3,10 @@
 title: Ievads
 ---
 
-Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests:
+Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedēļas beigu tests.
 
+```attention-note {label: "Otrās nedēļas tēmas"}
+```
 - Datoru attīstības vēsture
    
     2.1 Datoru vēsture  
@@ -24,6 +26,8 @@ Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē�
 - Nedēļas beigu tests
   
 ---
+```attention-note {label: "Tavs uzdevums"}
+```
 Šī mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
@@ -32,13 +36,16 @@ Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē�
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
-
+```attention-note {label: "Studijas prasa Tavu laiku"}
+```
 Šī moduļa, studijas aizņem vidēji **4** stundas.
 
 [STUDIJAS VARAM TURPINĀT ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/2-modulis/1_1)
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
+```attention-note {label: "Tu neesi viens"}
+```
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērzētavā.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
@@ -48,6 +55,8 @@ Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja 
 [SARUNU VIETNE - TĒRZĒTAVA](https://2-ned-sarunas.netlify.app/)
 
 
+```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas"}
+```
 Noslēdzot šo nedēļu/mācību moduli,  
 Tu vari apliecināt savas zināšanas par HPC, piedaloties **nedēļas noslēguma testā**.  
 
