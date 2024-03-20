@@ -4,8 +4,8 @@ title: Ievads
 
 ```attention-note {label: "Ceturtās nedēļas tēmas"}
 ```
-- HPC veiksmes stāsti
-4.1 Eiropas stāsti
+- HPC veiksmes stāsti  
+4.1 Eiropas stāsti  
 4.2 Kas notiek pasaulē
 
 - Diskusija par Eiropas stāstiem
