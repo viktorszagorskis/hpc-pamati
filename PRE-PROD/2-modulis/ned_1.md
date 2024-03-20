@@ -52,7 +52,7 @@ Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa
 Sarunu vietnē ir jāreģistrējas.  
 Ja esi piedalījies nedēļas beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
 
-!<--
+<!--
 [SARUNU VIETNE - TĒRZĒTAVA](https://2-ned-sarunas.netlify.app/)
 -->
 
