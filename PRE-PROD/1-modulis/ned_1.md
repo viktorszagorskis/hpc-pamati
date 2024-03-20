@@ -47,13 +47,13 @@ Pirmās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē
 
 ```attention-note {label: "Studijas prasa Tavu laiku"}
 ```
-> Šī moduļa studijas aizņem vidēji **4** stundas.  
+Šī moduļa studijas aizņem vidēji **4** stundas.  
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
 ```attention-note {label: "Tu neesi viens "}
 ```
 
-> Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
+Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 1. nedēļas sarunu vietnē - tērzētavā.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
 Sarunu vietnē ir jāreģistrējas.  
