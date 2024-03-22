@@ -59,4 +59,4 @@ Mēs iesakām vispirms:
 
 [STUDIJAS TURPINĀM un NOSLĒDZAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 
-Tev izdosies!
+Lai veicas!
