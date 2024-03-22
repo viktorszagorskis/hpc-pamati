@@ -4,6 +4,25 @@ title: Noderīgi izziņas materiāli
 ---
 
 
+```columns
+left: 
+### Pros {style: "api"}
+* Vide un enerģija
+* Veselības aprūpe
+
+middle: 
+### Undecided {style: "api"}
+* Vide un enerģija
+* Ražošana
+
+right:
+### Cons {style: "api"}
+* Vide un enerģija
+* Transports un būvniecība
+```
+
+
+
 <!--
 ```````columns
 left:
