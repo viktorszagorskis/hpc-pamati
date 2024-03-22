@@ -4,6 +4,35 @@ title: Noderīgi izziņas materiāli
 ---
 
 
+
+```````columns
+left:
+```card diamond.svg {title: "Card Title", imageHeight: 120, imageBackground: "linear-gradient(to right, rgb(29 41 41), rgb(145, 152, 229))"}
+Markdown content goes here
+
+:include-file: snippets/file-name.js 
+```
+
+middle:
+```card small-book.png {title: "Book", imageHeight: 120}
+Markdown content of the card goes here
+* item one
+* item two
+* item three
+```
+
+right:
+`````card star.svg {title: "API for the Win", imageHeight: 120, imageBackground: "linear-gradient(to right, rgb(154 128 145 / 0%), rgb(255 206 206))"}
+Easy to use API
+```api-parameters
+firstName, String, description with *markdown* support
+score, Integer, another description line with *markdown* support
+```
+`````
+````````
+
+
+<!--
 ```columns
 left: 
 ### Pros {style: "api"}
@@ -18,6 +47,8 @@ right:
 ### Cons {style: "api"}
 * Item Four
 ```
+--> 
+
 
 > Par pielikumiem
 
