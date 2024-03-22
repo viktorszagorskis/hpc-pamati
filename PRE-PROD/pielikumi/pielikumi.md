@@ -4,7 +4,7 @@ title: Noderīgi izziņas materiāli
 ---
 
 
-
+<!--
 ```````columns
 left:
 ```card diamond.svg {title: "Card Title", imageHeight: 120, imageBackground: "linear-gradient(to right, rgb(29 41 41), rgb(145, 152, 229))"}
@@ -30,6 +30,7 @@ score, Integer, another description line with *markdown* support
 ```
 `````
 ````````
+-->
 
 
 <!--
