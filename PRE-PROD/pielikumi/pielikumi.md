@@ -4,6 +4,21 @@ title: Noderīgi izziņas materiāli
 ---
 
 
+```columns
+left: 
+### Pros {style: "api"}
+* Item One
+
+middle: 
+### Undecided {style: "api"}
+* Item Two
+* Item Three
+
+right:
+### Cons {style: "api"}
+* Item Four
+```
+
 > Par pielikumiem
 
 # DATU APSTRĀDES ELEMENTI 
