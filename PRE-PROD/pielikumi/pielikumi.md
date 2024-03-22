@@ -4,41 +4,6 @@ title: Noderīgi izziņas materiāli
 ---
 
 
-```columns
-left: 
-### Variants A {style: "api"}
-* Vide un enerģija
-* Veselības aprūpe
-
-middle: 
-### Variants B {style: "api"}
-* Vide un enerģija
-* Ražošana
-
-right:
-### Variants C {style: "api"}
-* Vide un enerģija
-* Transports un būvniecība
-```
-
-```columns
-left: 
-### Variants D {style: "api"}
-* Ražošana
-* Veselības aprūpe
-
-middle: 
-### Variants E {style: "api"}
-* Ražošana
-* Transports un būvniecība
-
-
-right:
-### Variants F {style: "api"}
-* Veselības aprūpe
-* Transports un būvniecība
-```
-
 
 
 <!--
