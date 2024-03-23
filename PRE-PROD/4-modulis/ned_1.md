@@ -57,6 +57,6 @@ Mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie KURSA NOSLĒGUMA TESTA
 
-[STUDIJAS TURPINĀM un NOSLĒDZAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
+TUVOJAMIES STUDIJU NOSLĒGUMAM!
 
 Lai veicas!
