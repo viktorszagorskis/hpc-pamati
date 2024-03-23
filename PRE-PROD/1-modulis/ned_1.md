@@ -71,6 +71,4 @@ Bet! Mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie NEDĒĻAS NOSLĒGUMA TESTA
 
-[STUDIJAS SĀKAM ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/1-modulis/1_1)
-
-Tev izdosies!
+Lai veicas!
