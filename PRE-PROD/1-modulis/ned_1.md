@@ -71,4 +71,7 @@ Bet! Mēs iesakām vispirms:
 - **izpildīt visus iekļautos pašpārbaudes testus** un 
 - TIKAI TAD - ķerties pie NEDĒĻAS NOSLĒGUMA TESTA
 
+```alert-note {label: "Nedēļas testu vari kārtot reģistrejoties ar saiti lapas augšējā labajā stūrī"}
+```
+
 Lai veicas!
