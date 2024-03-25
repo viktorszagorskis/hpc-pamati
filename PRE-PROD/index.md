@@ -12,7 +12,7 @@ HPC ir saīsinājums no High-Performance Computing
 ```
 
 ```attention-note {label: "Tev ir jāzina"}
-Latviski HPC nozīmē  - augstas veikspējas skaitļošana 
+Latviski HPC nozīmē  - augstas veiktspējas skaitļošana 
 ```
 ---
 
