@@ -5,9 +5,9 @@ Sveicam tālmācības kursā par SUPERDATORIEM!
 
 > Saīsinājums HPC (*angl. High-Performance Computing*) jeb superskaitļošana  ir dzirdams arvien biežāk, superdatoru skaits un jauda arvien pieaug un superdatoru pielietojums kļūst arvien plašāks - par to arī mācīsies šajā kursā. 
 
-> Latvija kopā ar citām 33 Eiropas valstīm jau 2018. gadā ir iesaistījusies EuroHPC kopuzņēmumā. Šajās valstīs un arī Latvijā jau 2020. gadā uzsākts projekts EuroCC par HPC kompetenču centru izveidi. Projekta ietvaros arī izveidots šis mācību kurss latviešu valodā. 
+> Latvija kopā ar citām 33 Eiropas valstīm jau 2018. gadā ir iesaistījusies EuroHPC kopuzņēmumā. Šajās valstīs un arī Latvijā 2020. gadā uzsākts projekts [EuroCC](https://eurocc-latvia.lv) par HPC kompetenču centru izveidi. Projekta ietvaros arī izveidots šis mācību kurss latviešu valodā. 
 
-> Kurss veidots balstoties uz idejām izklāstītām līdzīgos brīvpieejas kursos angļu valodā, kuri radīti Somijā  un PRACE projekta ietvaros Lielbritānijā. Tomēr, šī kursa _formāts_, _saturs_ un izpildes _tehnoloģija_ ir unikāli. Kurss dod pienesumu zināšanās-balstītās sabiedrības daļai Latvijā.   
+> Kurss veidots balstoties uz idejām izklāstītām līdzīgos brīvpieejas kursos angļu valodā, kuri radīti Somijā  un PRACE projekta ietvaros Lielbritānijā. Tomēr, šī kursa _formāts_, _saturs_ un izpildes _tehnoloģija_ ir unikāla. Kurss dod pienesumu zināšanās-balstītās sabiedrības daļai Latvijā.   
 
 # Kā organizētas studijas? 
 
