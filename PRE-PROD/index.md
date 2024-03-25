@@ -21,7 +21,7 @@ Latviski HPC nozīmē  - augstas veiktspējas skaitļošana
 #### Kursa mērķis ir palīdzēt saprast HPC, apskatot šādas tēmas:
 
 - HPC loma modernajā zinātnē un inženierijā
-- HPC līdzība ar galda vai klēpja datoriem
+- HPC līdzība ar galda vai klēpjdatoriem
 - HPC uzbūve un arhitektūra
 - HPC kontekstā lietojamie termini un žargons 
 - HPC un paralēlās skaitļošanas principi
@@ -33,7 +33,7 @@ Latviski HPC nozīmē  - augstas veiktspējas skaitļošana
 ```attention-question {label: "Cik ilgi ir jāstudē?"}
 ```
 
-> 🍃🕒 Prognozējamais laiks kursa veikšanai - 12 stundas
+> 🍃🕒 Prognozējamais laiks kursa veikšanai - 12 stundas.
 
 
 
