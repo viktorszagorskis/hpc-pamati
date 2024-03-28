@@ -10,19 +10,16 @@ title: Ievads
 
 - Diskusija par Eiropas stāstiem
 
-- Kursa noslēguma diskusija
-
-- Kursa noslēguma tests
 ---
 
 ```attention-note {label: "Tavs uzdevums"}
 ```
 Ceturtā mācību moduļa **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
-- apskatīt ATTĒLUS un VIDEO materiālus,
+- apskatīt ATTĒLUS,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izceidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
-- apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
+- izveidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
+- izanalizēt reālus HPC lietojumu piemērus.
 
 ---
 
@@ -43,19 +40,6 @@ Sarunu vietnē ir jāreģistrējas.
 Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
 <!--
 [SARUNU VIETNE - TĒRZĒTAVA](https://4-ned-sarunas.netlify.app/) -->
-
-```attention-note {label: "Kā pārliecināties, vai Tu esi ieguvis jaunas zināšanas"}
-```
-Noslēdzot šo nedēļu/mācību moduli,  
-Tu vari apliecināt savas zināšanas par HPC piedaloties **kursa noslēguma testā**.  
-<!--
-[4.NEDĒĻAS TESTS](https://hpc-pamati.learning.lv/exam) -->
-Kursa noslēguma tests būs pieejams tiklīdz tiksi galā ar visiem iepriekšējo mācību moduļu testiem.
-
-Mēs iesakām vispirms:
--  **izlasīt un apskatīt visus publicētos materiālus** un 
-- **izpildīt visus iekļautos pašpārbaudes testus** un 
-- TIKAI TAD - ķerties pie KURSA NOSLĒGUMA TESTA
 
 TUVOJAMIES STUDIJU NOSLĒGUMAM!
 
