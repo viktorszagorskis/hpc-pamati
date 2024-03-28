@@ -37,7 +37,7 @@ Trešā mācību MODUĻA **UZDEVUMS TEV** ir:
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izceidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
+- izveidot PAMAT-PRIEKŠSTATUS HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
