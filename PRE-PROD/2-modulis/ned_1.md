@@ -32,7 +32,7 @@ Otrās nedēļas saturs sadalīts trīs daļās un noslēgumā paredzēts nedē�
 - izlasīt piedāvātos TEKSTUS,
 - apskatīt ATTĒLUS un VIDEO materiālus,
 - trenēties atrast pareizas atbildes PAŠPĀRBAUDES UZDEVUMOS,
-- izceidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
+- izveidot PAMAT-PRIEKŠSTATUS par HPC modernās realitātes kontekstā, un
 - apliecināt savas ZINĀŠANAS vismaz 70% līmenī - tas ir **TAVS MĒRĶIS**.
 
 ---
