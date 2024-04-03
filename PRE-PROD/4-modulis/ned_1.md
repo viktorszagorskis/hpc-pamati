@@ -5,9 +5,8 @@ title: Ievads
 ```attention-note {label: "Ceturtās nedēļas tēmas"}
 ```
 - HPC veiksmes stāsti  
-  - Eiropas stāsti  
-  - Kas notiek pasaulē
-
+  - Projekti maziem un vidējiem uzņēmumiem
+  - Veiksmes stāsti  
 - Diskusija par Eiropas stāstiem
 
 ---
