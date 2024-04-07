@@ -4,6 +4,7 @@ title: Noderīgi izziņas materiāli
 ---
 
 
+:include-iframe: https://hpc-testi-iframe.netlify.app/week-one {}
 
 
 <!--
