@@ -51,14 +51,20 @@ Trešā mācību MODUĻA **UZDEVUMS TEV** ir:
 
 Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/aptuveni vienu nedēļu.
 
-```attention-note {label: "Tu neesi viens"}
+```attention-note {label: "Tu neesi viens - piedalies diskusijā"}
 ```
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
-Mēs iesakām izmantot iespēju ieskatīties 3. nedēļas sarunu vietnē - tērzētavā.  
+Mēs iesakām izmantot iespēju ieskatīties 3. nedēļas sarunu vietnē - tērzētavā, kas peejama zemāk.  
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
-Sarunu vietnē ir jāreģistrējas.  
-Ja esi piedalījies nedēļu beigu testos, tad vari lietot to pašu lietotāja vārdu un paroli.
 
+Lai piekļūtu sarunu vietnei, Tev ir jāautentificējas  - kā parasti ar savu vārdu vai e-pastu un Tev vien zināmo paroli.   
+Ja esi piedalījies iepriekšējās nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.
+Pie tam, ja Tu jau esi iepriekš ievadījis savus datus sevis identificēšanai ieprekšējo 30 min laikā, tad Tev neko neprasīs, jo Tavs pārlūks parūpēsies par privāto savienojumu, kas pēc minētā laika, ja neko nedarīsi, tiks pārtraukts. 
+
+Lieto atjauninātus pārlūkus, jo tie nemitīgi tiek uzlaboti Tavai drošībai Internetā.
+
+
+:include-iframe: https://3-ned-sarunas.netlify.app {}
 <!--
 [SARUNU VIETNE - TĒRZĒTAVA](https://3-ned-sarunas.netlify.app/) -->
 
