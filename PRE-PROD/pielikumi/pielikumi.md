@@ -57,9 +57,9 @@ right:
 ```
 --> 
 
-# Kas notiek Pasaulē
 
-##   Zinātnes jaunumi
+
+#  Zinātnes jaunumi
 [Symbolic Calculus for High-performance Computing From Scratch Using C++23 - Vincent Reverdy - CppCon](https://youtu.be/lPfA4SFojao)
 
 
