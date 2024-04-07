@@ -6,7 +6,7 @@ title: Noderīgi izziņas materiāli
 <!--
 :include-iframe: https://hpc-testi-iframe.netlify.app/ {}
 -->
-:include-iframe: http://localhost:4200 {}
+:include-iframe: http://localhost:4200/week-one {}
 
 
 
