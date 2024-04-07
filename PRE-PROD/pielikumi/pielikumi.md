@@ -59,7 +59,7 @@ right:
 
 
 
-#  Zinātnes jaunumi
+#  ZINĀTNES JAUNUMI
 [Symbolic Calculus for High-performance Computing From Scratch Using C++23 - Vincent Reverdy - CppCon](https://youtu.be/lPfA4SFojao)
 
 
