@@ -24,7 +24,7 @@ Ceturtā mācību moduļa **UZDEVUMS TEV** ir:
 
 ```attention-note {label: "Studijas prasa Tavu laiku"}
 ```
-Šī mācību moduļa studijas aizņem vidēji **4** stundas.
+Šī mācību moduļa studijas aizņem vidēji **2** stundas.
 <!--
 [4. MĀCĪBU MODUĻA STUDIJAS SĀKAS ŠEIT!](https://hpc-pamati-saturs.learning.lv/preview/4-modulis/1_1)
 -->
