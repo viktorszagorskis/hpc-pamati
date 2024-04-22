@@ -3,11 +3,13 @@
 title: Ievads
 ---
 Sveicu Tevi HPC pamatu kursa otrajā nedēļā!  
+
 Ceru, ka pirmā nedēļa jau ir sekmīgi pabeigta ar veiksmīgu testu.
 Šajā nedēļā būs par datoriem un superdatoriem. Sākumā īsi par datoru rašanās vēsturi un arī par datoru attīstību Latvijā. Uzzināsi arī par to kā radies nosaukums “dators”. Nākamā sadaļa ir par datora uzbūvi, tā sastāvdaļām ar interesantiem nosaukumiem un latviešu valodas terminiem jeb tulkojumiem no angļu valodas. Datoros izmanto divnieku nevis ierasto desmitnieku skaitīšanas sistēmu un peldošā komata skaitļus. Datoru darbības ātrumu nosaka takts ģeneratora darba frekvence un ir tāds Mūra likums.  Atcerēšanos un izpratni atkal pārbaudīsi ar pašpārbaudes testiem.  
 Šīs nedēļas beigās jau būs par superdatoriem un TOP 500, jo divas reizes gadā vērtē, kuri ir pasaules jaudīgākie superdatori. 2022. gadā 3. vietā pasaulē nonāca Somijas superdators LUMI, bet tagad tas jau ir noslīdējis uz zemāku vietu.  
 Savas zināšanas un atcerēšanos atkal varēsi pārbaudīt ar pašpārbaudes testiem. Pašās otrās nedēļas noslēgumā ir nedēļas beigu tests. Ceru, ka jau pirmajā nedēļā esi reģistrējies, lapas augšējā labajā stūrī “MANA VIDE”. Pēc reģistrēšanās Tev ir pieejami ne tikai visu nedēļu beigu testi, bet arī tērzētavas. Pirms testa uzsākšanas jāizlasa izpildes noteikumus un tad var sākt testu. Ceru, ka arī 2. Nedēļas tests būs Tev veiksmīgs un varēsi teikt, ka jau puse no mācību kursa ir pieveikta.
 Savus novērojumus un pārdzīvojumus vari aprakstīt tērzētavā un padalīties ar citiem.  
+
 Lai Tev veicas!
 
 
@@ -59,7 +61,6 @@ Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērz
 Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
 
 Lai piekļūtu sarunu vietnei, Tev ir jāautentificējas  - kā parasti ar savu vārdu vai e-pastu un Tev vien zināmo paroli.   
-Ja esi piedalījies iepriekšējās nedēļas beigu testā, tad vari lietot to pašu lietotāja vārdu un paroli.
 Pie tam, ja Tu jau esi iepriekš ievadījis savus datus sevis identificēšanai ieprekšējo 30 min laikā, tad Tev neko neprasīs, jo Tavs pārlūks parūpēsies par privāto savienojumu, kas pēc minētā laika, ja neko nedari, tiks pārtraukts. 
 
 Lieto atjauninātus pārlūkus, jo tie nemitīgi tiek uzlaboti Tavai drošībai Internetā.
