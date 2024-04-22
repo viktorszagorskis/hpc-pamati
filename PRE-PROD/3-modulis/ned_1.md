@@ -3,10 +3,12 @@ title: Ievads
 ---
 
 Sveicu Tevi HPC pamatu kursa trešajā nedēļā!  
+
 Ceru, ka puse kursa jau ir sekmīgi pabeigta ar veiksmīgiem testiem. Šajā nedēļā būs par paralēlo skaitļošanu, kas ir mūsdienu superdatoru darbības pamats.  
 Pēc Mūra likuma datoru attīstība notika samazinot mikroshēmas elementu izmērus un paaugstinot takts frekvenci, bet šis process apstājās. Tagad attīstība notiek pārejot uz paralēlo skaitļošanu, bet arī šeit ir ierobežojumi, par kuriem šajā nedēļā būs runa.
 Amdāla likums parāda, cik reizes var paātrināt aprēķinus sadalot uzdevumu uz vairākiem izpildītājiem. Tad vēl, ir parastie procesori CPU, bet ir arī grafiskie procesori GPU, kurus kombinējot var vēl vairāk palielināt skaitļošanas ātrumu. Un tā tā skaitļošanas tehnika attīstās.  
 Atcerēšanos un izpratni atkal pārbaudīsi ar pašpārbaudes testiem. Pašās trešās nedēļas noslēgumā ir nedēļas beigu tests. Ceru, ka jau esi pildījis testus un arī šis tiks veiksmīgi izpildīts un varēsi teikt, ka tuvojies mācību kursa noslēgumam. Savus novērojumus un pārdzīvojumus vari aprakstīt arī tērzētavā un padalīties ar citiem.  
+
 Lai Tev veicas!
 
 
