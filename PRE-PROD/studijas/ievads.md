@@ -14,18 +14,18 @@ Kurss veidots balstoties uz idejām izklāstītām līdzīgos brīvpieejas kurso
 
 # Kā organizētas studijas? 
 
-> Šis ir ievadkurss par superskaitļošanas jeb HPC pamatiem un paredzēts cilvēkiem bez priekšzināšanām informācijas tehnoloģiju (IT) jomā. Pēc kursa sekmīgas pabeigšanas nebūs iespējams sākt strādāt ar superdatoru, bet iegūtās zināšanas ļaus labāk saprast, kurās jomās superdatori varētu būt noderīgi un kā tie darbojas. Viss šajā jomā attīstās un mūsdienu mobilais telefons pirms 25 gadiem būtu jaudīgāks par tā laika superdatoru!
+Šis ir ievadkurss par superskaitļošanas jeb HPC pamatiem un paredzēts cilvēkiem bez priekšzināšanām informācijas tehnoloģiju (IT) jomā. Pēc kursa sekmīgas pabeigšanas nebūs iespējams sākt strādāt ar superdatoru, bet iegūtās zināšanas ļaus labāk saprast, kurās jomās superdatori varētu būt noderīgi un kā tie darbojas. Viss šajā jomā attīstās un mūsdienu mobilais telefons pirms 25 gadiem būtu jaudīgāks par tā laika superdatoru!
 
-> Kursā varēs apgūt HPC jomā lietoto terminoloģiju un arī žargonu. Uzzināsi arī par datoru attīstības vēsturi, uzbūves principiem un kā darbojas paralēlā skaitļošana.  Būs arī aprakstīti superdatoru pielietojumi, no kuriem varēsi rast arī jaunas, inovatīvas idejas. 
+Kursā varēs apgūt HPC jomā lietoto terminoloģiju un arī žargonu. Uzzināsi arī par datoru attīstības vēsturi, uzbūves principiem un kā darbojas paralēlā skaitļošana.  Būs arī aprakstīti superdatoru pielietojumi, no kuriem varēsi rast arī jaunas, inovatīvas idejas. 
 
-> Mācīšanās ilgums ir plānots 12 stundas četrās nedēļās. Tas nozīmē, ka katru nedēļu ir jāatrod trīs stundas brīva laika mācībām. Nav jau jāmācās tieši trīs stundas katru nedēļu. Kādam mācīšanās veiksies ātrāk, bet citam mazliet lēnāk. Tālmācībā nav klātienes nodarbību un jāmācās ir patstāvīgi, tomēr var saņemt palīdzību attālināti no konsultanta vai citiem, kas arī mācās šo pašu kursu.
+Mācīšanās ilgums ir plānots 12 stundas četrās nedēļās. Tas nozīmē, ka katru nedēļu ir jāatrod trīs stundas brīva laika mācībām. Nav jau jāmācās tieši trīs stundas katru nedēļu. Kādam mācīšanās veiksies ātrāk, bet citam mazliet lēnāk. Tālmācībā nav klātienes nodarbību un jāmācās ir patstāvīgi, tomēr var saņemt palīdzību attālināti no konsultanta vai citiem, kas arī mācās šo pašu kursu.
 
-> Kad sāk mācīties, tad ieteicam visus materiālus apgūt tādā secībā, kā tie ir sakārtoti. Pašlaik Tu esi sadaļā Ievads. Kad šo daļu būsi izlasījis, tad lai nonāktu nākamajā sadaļā Tev ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads >”.  Tad nokļūsi nākamajā sadaļā “Ievads”.  Ja gribi nokļūt atpakaļ, tad lapas apakšā kreisajā pusē var uzklikšķināt uz “< Kā studēt?: Ievads” un tad nokļūsi iepriekšējā sadaļā. Pamēģini paceļot turp un atpakaļ.
+Kad sāk mācīties, tad ieteicam visus materiālus apgūt tādā secībā, kā tie ir sakārtoti. Pašlaik Tu esi sadaļā Ievads. Kad šo daļu būsi izlasījis, tad lai nonāktu nākamajā sadaļā Tev ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads >”.  Tad nokļūsi nākamajā sadaļā “Ievads”.  Ja gribi nokļūt atpakaļ, tad lapas apakšā kreisajā pusē var uzklikšķināt uz “< Kā studēt?: Ievads” un tad nokļūsi iepriekšējā sadaļā. Pamēģini paceļot turp un atpakaļ.
 
-> Kursā ir teksti, attēli, video un citi materiāli, kurus vajadzētu apgūt norādītajā secībā. Pēc katra mācību materiāla ir pašpārbaudes tests, lai varētu pārliecināties, vai atceries un saproti lasīto un/vai redzēto. Ja testu neizdodas izpildīt sekmīgi, tad vēlreiz jāizskata mācību materiāls un pašpārbaudes tests ir jāatkārto. 
+Kursā ir teksti, attēli, video un citi materiāli, kurus vajadzētu apgūt norādītajā secībā. Pēc katra mācību materiāla ir pašpārbaudes tests, lai varētu pārliecināties, vai atceries un saproti lasīto un/vai redzēto. Ja testu neizdodas izpildīt sekmīgi, tad vēlreiz jāizskata mācību materiāls un pašpārbaudes tests ir jāatkārto. 
 
-> Katras nedēļas beigās ir īstais pārbaudes tests, kurā jāsasniedz vismaz 70% pareizu atbilžu. Šo testu izpildei ir jāreģistrējas. Lai reģistrētos nedēļas beigu testam, ir jāklikšķina lapas pašā augšā labajā stūrī uz “Sākt darbu”. Tur būs jāievada visa prasītā informācija un tad būsi reģistrēts studējošais. Ja pirmajā reizē testa rezultāts nav sekmīgs, tad tas nozīmē, ka vajadzētu vēlreiz caurskatīt nedēļas materiālus, veikt pašpārbaudes testus un mēģināt vēlreiz. 
+Katras nedēļas beigās ir īstais pārbaudes tests, kurā jāsasniedz vismaz 70% pareizu atbilžu. Šo testu izpildei ir jāreģistrējas. Lai reģistrētos nedēļas beigu testam, ir jāklikšķina lapas pašā augšā labajā stūrī uz “Sākt darbu”. Tur būs jāievada visa prasītā informācija un tad būsi reģistrēts studējošais. Ja pirmajā reizē testa rezultāts nav sekmīgs, tad tas nozīmē, ka vajadzētu vēlreiz caurskatīt nedēļas materiālus, veikt pašpārbaudes testus un mēģināt vēlreiz. 
 
-> Pēc četru šādu testu sekmīgas izpildes 12 stundu mācību kurss būs sekmīgi pabeigts un, ja būsi reģistrējies/reģistrējusies, saņemsi  arī sertifikātu.
+Pēc četru šādu testu sekmīgas izpildes 12 stundu mācību kurss būs sekmīgi pabeigts un, ja būsi reģistrējies/reģistrējusies, saņemsi  arī sertifikātu.
 
-> Lai Tev veicas!
+Lai Tev veicas!
