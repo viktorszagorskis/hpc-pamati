@@ -58,7 +58,8 @@ Tomēr, lai visu *kārtīgi* apgūtu, mēs prognozējam, ka tas ilgs vidēji/apt
 ```
 Moduļa studiju laikā Tev, iespējams, var rasties jautājumi vai pat neatrisināmas problēmas.  
 Mēs iesakām izmantot iespēju ieskatīties 2. nedēļas sarunu vietnē - tērzētavā, kas peejama zemāk.  
-Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.  
+Tur Tu varēsi apskatīt gan citu studentu jautājumus un komentārus, gan kursa moderatoru atbildes.
+ Rakstot ziņas tērzētavā neaizmirsti pierakstīt arī savu vārdu.
 
 Lai piekļūtu sarunu vietnei, Tev ir jāautentificējas  - kā parasti ar savu vārdu vai e-pastu un Tev vien zināmo paroli.   
 Pie tam, ja Tu jau esi iepriekš ievadījis savus datus sevis identificēšanai ieprekšējo 30 min laikā, tad Tev neko neprasīs, jo Tavs pārlūks parūpēsies par privāto savienojumu, kas pēc minētā laika, ja neko nedari, tiks pārtraukts. 
