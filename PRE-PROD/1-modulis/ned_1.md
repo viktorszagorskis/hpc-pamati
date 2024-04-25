@@ -3,6 +3,11 @@
 title: Ievads
 ---
 
+
+:include-iframe: https://vimeo.com/939057293?share=copy
+
+
+
 Sveicu Tevi HPC pamatu kursa pirmajā nedēļā!  
 
 Šajā nedēļā Tev būs jāapskatās daži video. Vispirms Viktora Zagorska video un tad ES un PRACE projekta video. Šie divi pēdējie video ir angļu valodā, tāpēc tajos teiktais ir tulkots arī latviešu valodā. Pēc šiem video ir pašpārbaudes testi un tā ir pirmā pārbaude par to, ko dzirdēji un redzēji video materiālos.  
