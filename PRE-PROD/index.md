@@ -49,6 +49,11 @@ Latviski HPC nozīmē  - augstas veiktspējas skaitļošana
 > Tu iegūsi SERTIFIKĀTU par **HPC-pamati** kursa beigšanu,   
 ja noslēguma pārbaudījumā uzrādīsi vismaz **70%** pareizas atbildes.
 
+```attention-question {label: "Kas parakstīs  DOKUMENTU?"}
+```
+> Šis jautājums tiek risināts.
+
+
 ```attention-question {label: "Kur MAN var noderēt SERTIFIKĀTS?"}
 ```
 
