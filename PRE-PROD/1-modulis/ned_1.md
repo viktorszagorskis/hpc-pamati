@@ -4,7 +4,7 @@ title: Ievads
 ---
 
 
-:include-iframe: https://vimeo.com/939057293?share=copy
+:include-iframe: https://player.vimeo.com/video/939057293
 
 
 
