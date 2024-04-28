@@ -1,6 +1,4 @@
-```attention-recommendation {label: ""}
-Sveicam Tevi tālmācības kursā par SUPERDATORIEM!
-```
+:include-iframe: https://player.vimeo.com/video/940492673
 
 
 # Par ko ir šis kurss?
