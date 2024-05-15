@@ -82,7 +82,7 @@ PALIEKAM PIE NOTEIKTĀS TĒMAS: izvairāmies no diskusijām ar nesaistītiem vai
 
 ESAM ATVĒRTI: esam gatavi apsvērt dažādus viedokļus, pat ja tie atšķiras no mūsu viedokļiem. Iesaistāmies konstruktīvā dialogā un esam atvērti mācīties no citiem.
 
-CIENAM KURSA MODERATORUS: ievērojam viņu norādījumus un vadlīnijas. Tie ir paredzēti, lai nodrošinātu pozitīvu un produktīvu vidi visiem dalībniekiem.
+CIENĀM KURSA MODERATORUS: ievērojam viņu norādījumus un vadlīnijas. Tie ir paredzēti, lai nodrošinātu pozitīvu un produktīvu vidi visiem dalībniekiem.
 
 Ievērosim šos noteikumus, lai tērzēšana būtu patīkama un bagātinoša pieredze, kas veicina jēgpilnu mijiedarbību un konstruktīvu diskusiju.
 ```
