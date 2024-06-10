@@ -2,6 +2,8 @@
 title: Ievads
 ---
 
+:include-iframe: https://player.vimeo.com/video/956144872
+
 Sveicu Tevi HPC pamatu kursa ceturtajā, pēdējā nedēļā!  
 
 Ceru, ka kurss Tev bija interesants, jo tik tālu jau ir tikts. Šajā nedēļā būs pārskats par superskaitļošanas pielietojumiem Eiropā un Tev būs iespēja iepazīties ar īsiem projektu aprakstiem no visdažādākajām jomām. 
