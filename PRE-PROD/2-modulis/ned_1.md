@@ -2,6 +2,9 @@
 ---
 title: Ievads
 ---
+
+:include-iframe: https://player.vimeo.com/video/955644707
+
 Sveicu Tevi HPC pamatu kursa otrajā nedēļā!  
 
 Ceru, ka pirmā nedēļa jau ir sekmīgi pabeigta ar veiksmīgu testu.
