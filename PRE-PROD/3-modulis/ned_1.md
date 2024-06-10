@@ -2,6 +2,9 @@
 title: Ievads
 ---
 
+
+:include-iframe: https://player.vimeo.com/video/956094108
+
 Sveicu Tevi HPC pamatu kursa trešajā nedēļā!  
 
 Ceru, ka puse kursa jau ir sekmīgi pabeigta ar veiksmīgiem testiem. Šajā nedēļā būs par paralēlo skaitļošanu, kas ir mūsdienu superdatoru darbības pamats.  
