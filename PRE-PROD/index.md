@@ -21,9 +21,9 @@ Latviski HPC nozīmē  - augstas veiktspējas skaitļošana
 #### Kursa mērķis ir palīdzēt saprast HPC, apskatot šādas tēmas:
 
 - HPC loma modernajā zinātnē un inženierijā
-- HPC līdzība ar galda vai klēpjdatoriem
+- HPC līdzība ar stacionārajiem vai portatīvajiem datoriem
 - HPC uzbūve un arhitektūra
-- HPC kontekstā lietojamie termini un žargons 
+- HPC kontekstā lietojamie termini
 - HPC un paralēlās skaitļošanas principi
 
 ---
@@ -41,27 +41,16 @@ Latviski HPC nozīmē  - augstas veiktspējas skaitļošana
 ```
 
 >  Kursa saturs ir brīvi pieejams.   
- Tu maksā ar savu LAIKU.  
- Tu ieguldi savā NĀKOTNĒ!
+ Tu maksā ar savu laiku.  
+ Tu ieguldi savā nākotnē!
 
-```attention-question {label: "Vai ES iegūšu kādu DOKUMENTU?"}
+```attention-question {label: "Vai es iegūšu kādu dokumentu?"}
 ```
-> Tu iegūsi SERTIFIKĀTU par **HPC-pamati** kursa beigšanu,   
+> Tu iegūsi **sertifikātu** par **HPC-pamati** kursa beigšanu,   
 ja noslēguma pārbaudījumā uzrādīsi vismaz **70%** pareizas atbildes.
 
-```attention-question {label: "Kas parakstīs  DOKUMENTU?"}
-```
-> Šis jautājums tiek risināts.
-
-
-```attention-question {label: "Kur MAN var noderēt SERTIFIKĀTS?"}
+```attention-question {label: "Kur man var noderēt sertifikāts?"}
 ```
 
->  Tu vari maksāt ar savu SERTIFIKĀTU par iespēju piedalīties nākamā līmeņa kursā - **HPC-prakse**.  
+>  Sertifikāts par HPC kursa pabeigšanu tev dos iespēju piedalīties nākamājā līmeņa kursā - **HPC-prakse**.  
 Tu vari sākt mainīt savu NĀKOTNI!
-
-```attention-question {label: "Dzirdēts, ka esot trīs HPC kursi..."}
-```
->  Pēc SERTIFIKĀTA iegūšanas par **HPC-prakse** kursu,  
-Tev ir iespēja piedalīties augstākā līmeņa kursā - **HPC-meistars**.  
-Tu pats veido savu NĀKOTNI!
