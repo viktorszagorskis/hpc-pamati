@@ -8,7 +8,7 @@ Saīsinājums HPC (*angl. High-Performance Computing*) jeb superskaitļošana  i
 
 Latvija kopā ar citām 33 Eiropas valstīm jau 2018. gadā ir iesaistījusies EuroHPC kopuzņēmumā. Šajās valstīs un arī Latvijā 2020. gadā uzsākts projekts [EuroCC](https://eurocc-latvia.lv) par HPC kompetenču centru izveidi. Projekta ietvaros arī izveidots šis mācību kurss latviešu valodā. 
 
-Kurss veidots balstoties uz idejām izklāstītām līdzīgos brīvpieejas kursos angļu valodā, kuri radīti Somijā  un PRACE projekta ietvaros Lielbritānijā. Tomēr, šī kursa _formāts_, _saturs_ un izpildes _tehnoloģija_ ir unikāla. Kurss dod pienesumu zināšanās-balstītās sabiedrības daļai Latvijā.   
+Kurss veidots balstoties uz idejām, kas izklāstītas līdzīgos brīvpieejas kursos angļu valodā, kuri radīti Somijā  un PRACE projekta ietvaros Lielbritānijā. Tomēr, šī kursa _formāts_, _saturs_ un izpildes _tehnoloģija_ ir unikāla. Kurss dod pienesumu zināšanās balstītas sabiedrības daļai Latvijā.   
 
 # Kā organizētas studijas? 
 
@@ -18,7 +18,7 @@ Kursā varēs apgūt HPC jomā lietoto terminoloģiju un arī žargonu. Uzzinās
 
 Mācīšanās ilgums ir plānots 12 stundas četrās nedēļās. Tas nozīmē, ka katru nedēļu ir jāatrod trīs stundas brīva laika mācībām. Nav jau jāmācās tieši trīs stundas katru nedēļu. Kādam mācīšanās veiksies ātrāk, bet citam mazliet lēnāk. Tālmācībā nav klātienes nodarbību un jāmācās ir patstāvīgi, tomēr var saņemt palīdzību attālināti no konsultanta vai citiem, kas arī mācās šo pašu kursu.
 
-Kad sāk mācīties, tad ieteicam visus materiālus apgūt tādā secībā, kā tie ir sakārtoti. Pašlaik Tu esi sadaļā Ievads. Kad šo daļu būsi izlasījis, tad lai nonāktu nākamajā sadaļā Tev ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads >”.  Tad nokļūsi nākamajā sadaļā “Ievads”.  Ja gribi nokļūt atpakaļ, tad lapas apakšā kreisajā pusē var uzklikšķināt uz “< Kā studēt?: Ievads” un tad nokļūsi iepriekšējā sadaļā. Pamēģini paceļot turp un atpakaļ.
+Kad sāk mācīties, tad ieteicams visus materiālus apgūt tādā secībā, kā tie ir sakārtoti. Pašlaik Tu esi sadaļā Ievads. Kad šo daļu būsi izlasījis, tad lai nonāktu nākamajā sadaļā Tev ir jānokļūst pašā apakšā un jāklikšķina uz “1.Nedēļa: Ievads >”.  Tad nokļūsi nākamajā sadaļā “Ievads”.  Ja gribi nokļūt atpakaļ, tad lapas apakšā kreisajā pusē var uzklikšķināt uz “< Kā studēt?: Ievads” un tad nokļūsi iepriekšējā sadaļā. Pamēģini pārvietoties turp un atpakaļ.
 
 Kursā ir teksti, attēli, video un citi materiāli, kurus vajadzētu apgūt norādītajā secībā. Pēc katra mācību materiāla ir pašpārbaudes tests, lai varētu pārliecināties, vai atceries un saproti lasīto un/vai redzēto. Ja testu neizdodas izpildīt sekmīgi, tad vēlreiz jāizskata mācību materiāls un pašpārbaudes tests ir jāatkārto. 
 
