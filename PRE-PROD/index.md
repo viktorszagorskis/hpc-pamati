@@ -53,4 +53,4 @@ ja noslēguma pārbaudījumā uzrādīsi vismaz **70%** pareizas atbildes.
 ```
 
 >  Sertifikāts par HPC kursa pabeigšanu tev dos iespēju piedalīties nākamājā līmeņa kursā - **HPC-prakse**.  
-Tu vari sākt mainīt savu NĀKOTNI!
+Tu vari sākt mainīt savu nākotni!
