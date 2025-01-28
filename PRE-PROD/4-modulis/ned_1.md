@@ -20,7 +20,7 @@ Sveicu Tevi HPC pamatu kursa ceturtajā, pēdējā nedēļā!
 Ceturtā mācību moduļa **uzdevums Tev** ir:
 - izlasīt piedāvātos tekstus,
 - apskatīt attēlus,
-- trenēties atrast pareizas atbildes pašpārbaudes uzdevumos,
+- trenēties atrast pareizās atbildes pašpārbaudes uzdevumos,
 - izveidot pamatpriekšstatus par HPC modernās realitātes kontekstā, un
 - izanalizēt reālus HPC lietojumu piemērus.
 
