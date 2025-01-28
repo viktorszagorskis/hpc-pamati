@@ -7,8 +7,6 @@ title: Ievads
 
 Sveicu Tevi HPC pamatu kursa otrajā nedēļā!  
 
-Lai Tev veicas!
-
 
 ```attention-note {label: "Otrās nedēļas tēmas"}
 ```
