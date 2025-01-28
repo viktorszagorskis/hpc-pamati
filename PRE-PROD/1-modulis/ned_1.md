@@ -45,7 +45,7 @@ Sveicu Tevi HPC pamatu kursa pirmajā nedēļā!
 Šī mācību moduļa **uzdevums Tev** ir:
 - izlasīt piedāvātos tekstus,
 - apskatīt attēlus un video materiālus,
-- trenēties atrast pareizas atbildes pašpārbaudes uzdevumos,
+- trenēties atrast pareizās atbildes pašpārbaudes uzdevumos,
 - izveidot pamat-priekšstatus HPC modernās realitātes kontekstā, un
 - apliecināt savas zināšanas vismaz 70% līmenī - tas ir **Tavs mērķis**.
 
