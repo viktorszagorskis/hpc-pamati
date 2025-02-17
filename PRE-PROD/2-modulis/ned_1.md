@@ -3,7 +3,7 @@
 title: Ievads
 ---
 
-:include-iframe: https://player.vimeo.com/video/1057325115
+:include-iframe: https://player.vimeo.com/video/1057656899
 
 Sveicu Tevi HPC pamatu kursa otrajā nedēļā!  
 
